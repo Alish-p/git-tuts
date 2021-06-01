@@ -1,3 +1,3 @@
 # git-tuts
 
-basic description !
+Updated basic description !
