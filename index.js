@@ -4,3 +4,5 @@ function square(number) {
 
 console.log(0 == undefined);
 console.log(undefined === null);
+
+console.log('Line added ');
